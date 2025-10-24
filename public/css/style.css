@@ -1,0 +1,24 @@
+
+.talk {
+  border-left: 5px solid #007bff;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f8f9fa;
+}
+
+.talk h3 {
+  color: #007bff;
+}
+
+.talk .meta {
+  font-size: 0.9em;
+  color: #6c757d;
+}
+
+.break {
+  border-left: 5px solid #6c757d;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f8f9fa;
+  text-align: center;
+}
